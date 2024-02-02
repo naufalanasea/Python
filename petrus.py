@@ -20,3 +20,8 @@ corner_permutation(cube)
 
 # Verifikasi solusi
 assert cube.is_solved()
+
+#Reduction: Mengubah kubus ke state Petrus.
+#Edge Permutation: Menyelesaikan permutasi edge.
+#corner Permutation: Menyelesaikan permutasi corner.
+
